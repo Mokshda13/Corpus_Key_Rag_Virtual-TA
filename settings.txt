@@ -1,0 +1,16 @@
+outline=outline_consulting
+classname=Consulting
+professor=John F. Burr
+assistantname=Hi, I'm Bob, your virtual teaching assistant
+assistants=Bob 
+classdescription=Fundamentals of Management Consulting
+instructions=I'm an experimental virtual TA for your course in Consulting.  I have read all your readings, course materials, lecture content, and slides. I am generally accurate, but on rare occasions I can mis-state facts. The more precise your question, the better an answer you will get. You may ask me questions in the language of your choice.
+num_chunks=8
+filedirectory=documents
+author=John F. Burr
+header=Consulting as a Critical Thinking Process
+footer=Copyright 2023 John F Burr, Do Not Copy or Post, For Instructional Purposes Only
+relatedfield=
+outline=outline_consulting
+question_format=csv
+autograde_sa=True
